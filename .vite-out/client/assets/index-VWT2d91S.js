@@ -1,0 +1,1 @@
+import{j as e}from"./index-DbMgI4xs.js";function n(){return typeof window<"u"&&window.location.replace("/app"),e.jsx("noscript",{children:e.jsx("meta",{httpEquiv:"refresh",content:"0;url=/app"})})}export{n as component};
